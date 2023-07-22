@@ -1,0 +1,1 @@
+select title, amount, amount * 1.65 as pack from book;
